@@ -1,4 +1,5 @@
 # Unsupervised Learning - Tweet Analysis 
+See the full code [here](project3.ipynb)  
 Presentation date: July 21, 2022  
 Collaborators: [Agata Miler](https://github.com/agataMiler), [Shreyas Gowrishanker](https://github.com/g-shrey)
 
